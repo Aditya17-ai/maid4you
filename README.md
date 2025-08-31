@@ -1,4 +1,4 @@
-# MaidService - Professional Household Services Platform
+# Maid4You - Professional Household Services Platform
 
 A modern, full-stack web application for connecting customers with professional household service providers (maids) for services like housekeeping, deep cleaning, cooking, and more.
 
