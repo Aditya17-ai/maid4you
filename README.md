@@ -113,4 +113,4 @@ npm run build
 npm start
 ```
 
-**MaidService** - Making household services accessible, reliable, and convenient for everyone.
+**Maid4You** - Making household services accessible, reliable, and convenient for everyone.
